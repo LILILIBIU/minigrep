@@ -1,2 +1,1 @@
-# minigrep
-A minigrep
+# This is a minigrep implemented by Rust
